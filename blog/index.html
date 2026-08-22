@@ -23,7 +23,7 @@ permalink: /blog/
   <link rel="stylesheet" href="{{ '/assets/blog.css' | relative_url }}">
 </head>
 <body>
-<nav class="blog-nav"><a class="brand" href="{{ '/' | relative_url }}"><span class="brand-dot"></span>Saved Library</a><div class="nav-actions"><a href="{{ '/' | relative_url }}">Home</a><a class="nav-cta" href="https://github.com/sthakur369/instagram-saved-library">Get the app</a></div></nav>
+<nav class="blog-nav"><a class="brand" href="{{ '/' | relative_url }}"><span class="brand-dot"></span>Saved Library</a><div class="nav-actions"><a href="{{ '/' | relative_url }}">Home</a><a class="nav-cta" href="https://github.com/sthakur369/instagram-saved-library-app">Get the app</a></div></nav>
 <header class="blog-hero"><div class="eyebrow">Instagram Saved Library · Guides</div><h1>Simple answers to<br>Instagram export questions.</h1><p>Practical guides for saving your Instagram data, finding your saved posts and Reels, and leaving Instagram without losing what mattered to you.</p></header>
 <div class="blog-tools"><input id="blogSearch" class="blog-search" type="search" placeholder="Search articles…" aria-label="Search blog articles"><select id="categoryFilter" class="blog-filter" aria-label="Filter articles by category"><option value="">All topics</option>{% for category in site.categories %}<option value="{{ category[0] | slugify }}">{{ category[0] }}</option>{% endfor %}</select><select id="tagFilter" class="blog-filter" aria-label="Filter articles by tag"><option value="">All tags</option>{% assign all_tags = site.tags | sort %}{% for tag in all_tags %}<option value="{{ tag[0] | slugify }}">{{ tag[0] }}</option>{% endfor %}</select><select id="sortFilter" class="blog-filter" aria-label="Sort articles"><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select></div>
 <main class="blog-grid" id="blogGrid">
@@ -37,7 +37,7 @@ permalink: /blog/
 {% endfor %}
 <div class="no-results" id="noResults" hidden>No articles match your search.</div>
 </main>
-<footer class="blog-footer">© 2026 Instagram Saved Library · <a href="{{ '/' | relative_url }}">Home</a> · <a href="https://github.com/sthakur369/instagram-saved-library">GitHub</a></footer>
+<footer class="blog-footer">© 2026 Instagram Saved Library · <a href="{{ '/' | relative_url }}">Home</a> · <a href="https://github.com/sthakur369/instagram-saved-library-app">GitHub</a></footer>
 <script>
 const grid=document.getElementById('blogGrid'),cards=[...document.querySelectorAll('.blog-card')],search=document.getElementById('blogSearch'),category=document.getElementById('categoryFilter'),tag=document.getElementById('tagFilter'),sort=document.getElementById('sortFilter'),empty=document.getElementById('noResults');
 function filter(){const q=search.value.trim().toLowerCase(),c=category.value,t=tag.value;let shown=0;cards.forEach(card=>{const text=card.dataset.title+' '+card.dataset.description;const ok=(!q||text.includes(q))&&(!c||card.dataset.category.split(' ').includes(c))&&(!t||card.dataset.tags.split(' ').includes(t));card.hidden=!ok;if(ok)shown++});empty.hidden=shown!==0} function sortCards(){cards.sort((a,b)=>{const d=Number(a.dataset.date)-Number(b.dataset.date);return sort.value==='oldest'?d:-d});cards.forEach(card=>grid.insertBefore(card,empty));} [search,category,tag].forEach(el=>el.addEventListener('input',filter));sort.addEventListener('change',sortCards);sortCards();

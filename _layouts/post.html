@@ -14,7 +14,7 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ page.title | escape }}">
   <meta name="twitter:description" content="{{ page.description | default: site.description | strip_html | escape }}">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | remove_first: site.baseurl }}">
   <link rel="stylesheet" href="{{ '/assets/blog.css' | relative_url }}">
   <script type="application/ld+json">
   {
@@ -26,14 +26,14 @@
     "dateModified":"{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
     "author":{"@type":"Person","name":"{{ page.author | default: 'Shubham Thakur' | escape }}"},
     "publisher":{"@type":"Organization","name":"Instagram Saved Library"},
-    "mainEntityOfPage":{"@type":"WebPage","@id":"{{ site.url }}{{ page.url }}"}
+    "mainEntityOfPage":{"@type":"WebPage","@id":"{{ site.url }}{{ site.baseurl }}{{ page.url | remove_first: site.baseurl }}"}
   }
   </script>
 </head>
 <body>
   <nav class="blog-nav">
     <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-dot"></span>Saved Library</a>
-    <div class="nav-actions"><a href="{{ '/blog/' | relative_url }}">Blog</a><a class="nav-cta" href="https://github.com/sthakur369/instagram-saved-library">Get the app</a></div>
+    <div class="nav-actions"><a href="{{ '/blog/' | relative_url }}">Blog</a><a class="nav-cta" href="https://github.com/sthakur369/instagram-saved-library-app">Get the app</a></div>
   </nav>
   <main class="post-shell">
     <a class="back-link" href="{{ '/blog/' | relative_url }}">← All articles</a>
@@ -53,6 +53,6 @@
       </div>
     </article>
   </main>
-  <footer class="blog-footer">© 2026 Instagram Saved Library · <a href="{{ '/' | relative_url }}">Home</a> · <a href="https://github.com/sthakur369/instagram-saved-library">GitHub</a></footer>
+  <footer class="blog-footer">© 2026 Instagram Saved Library · <a href="{{ '/' | relative_url }}">Home</a> · <a href="https://github.com/sthakur369/instagram-saved-library-app">GitHub</a></footer>
 </body>
 </html>
