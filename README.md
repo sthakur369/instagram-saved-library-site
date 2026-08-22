@@ -112,7 +112,7 @@ This repository contains the **website**, not the application itself.
 
 The actual Instagram Saved Library application is maintained in the main repository:
 
-### **[→ Instagram Saved Library — GitHub](https://github.com/sthakur369/instagram-saved-library)**
+### **[→ Instagram Saved Library — GitHub](https://github.com/sthakur369/instagram-saved-library-app)**
 
 The application repository contains:
 
