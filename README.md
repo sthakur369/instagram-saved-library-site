@@ -6,7 +6,7 @@
 
 **Turn your Instagram data export into a private, searchable visual library.**
 
-[![Website](https://img.shields.io/badge/Website-Visit%20Site-8a6f5a.svg)](https://sthakur369.github.io/instagram-saved/)
+[![Website](https://img.shields.io/badge/Website-Visit%20Site-8a6f5a.svg)](https://sthakur369.github.io/instagram-saved-library-site/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## 🌐 Official Website
 
-**[Visit Instagram Saved Library →](https://sthakur369.github.io/instagram-saved/)**
+**[Visit Instagram Saved Library →](https://sthakur369.github.io/instagram-saved-library-site/)**
 
 Instagram Saved Library helps you keep and browse the posts, Reels, collections and saved content you exported from Instagram.
 
@@ -112,7 +112,7 @@ This repository contains the **website**, not the application itself.
 
 The actual Instagram Saved Library application is maintained in the main repository:
 
-### **[→ Instagram Saved Library — GitHub](https://github.com/sthakur369/instagram-saved-library)**
+### **[→ Instagram Saved Library — GitHub](https://github.com/sthakur369/instagram-saved-library-app)**
 
 The application repository contains:
 
