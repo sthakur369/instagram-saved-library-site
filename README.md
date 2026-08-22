@@ -6,7 +6,7 @@
 
 **Turn your Instagram data export into a private, searchable visual library.**
 
-[![Website](https://img.shields.io/badge/Website-Visit%20Site-8a6f5a.svg)](https://sthakur369.github.io/instagram-saved/)
+[![Website](https://img.shields.io/badge/Website-Visit%20Site-8a6f5a.svg)](https://sthakur369.github.io/instagram-saved-library-site/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
