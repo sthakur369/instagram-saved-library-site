@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sthakur369.github.io/instagram-saved-library/sitemap.xml
+Sitemap: https://sthakur369.github.io/instagram-saved-library-site/sitemap.xml
