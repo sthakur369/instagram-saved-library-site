@@ -1,0 +1,14 @@
+title: Instagram Saved Library
+description: Delete Instagram without losing your saved posts and Reels. Turn your Instagram data export into a private, searchable library.
+url: https://sthakur369.github.io
+baseurl: /instagram-saved-library
+lang: en
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+exclude:
+  - README.md
+  - LICENSE
+  - .github/
