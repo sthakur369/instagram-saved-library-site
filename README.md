@@ -137,14 +137,18 @@ The application repository contains:
 
 ---
 
-# 📝 Blog
+## Contributing
 
-The website includes a blog covering practical questions around Instagram data exports, saved posts, saved Reels and leaving Instagram.
+Issues, improvements and pull requests are welcome.
 
-Blog posts are written in **Markdown** and automatically published through GitHub Pages.
+---
 
-To publish a new article, create a Markdown file inside:
+## License
 
-```text
-_posts/
-```
+This project is licensed under the [MIT License](LICENSE).
+
+<div align="center">
+
+**Built for people who want to leave Instagram without leaving their saved knowledge behind. ❤️**
+
+</div>
