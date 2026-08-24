@@ -49,7 +49,7 @@ Now set the export options:
 
 - **Media quality:** High
 - **Format:** HTML
-- **Customize info:** select **Media** and **Saved**
+- **Customize info:** select **Media** and **Saved** _(Media = your own posts & stories; Saved = your saved posts & reels)_.
 
 Then tap **Start export**.
 
