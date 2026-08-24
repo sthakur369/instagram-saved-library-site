@@ -13,18 +13,15 @@
 
 ---
 
-
-
 ![Instagram Saved Library — searchable saved posts, Reels, collections and music](screenshots/1.png)
 
 ---
-
 
 ## 🌐 Official Website
 
 **[Visit Instagram Saved Library →](https://sthakur369.github.io/instagram-saved-library-site/)**
 
-Instagram Saved Library helps you keep and browse the posts, Reels, collections and saved content you exported from Instagram.
+Instagram Saved Library is a local tool that reads the `saved` folder from an Instagram HTML data export and turns saved posts, Reels, collections and music into a visual, searchable library on your computer.
 
 If you're thinking about deleting Instagram but don't want to lose years of saved content, this project is for you.
 
@@ -68,8 +65,8 @@ The website explains:
 - How to save your Instagram posts before deleting your account
 - How Instagram's data export works
 - How to view Instagram saved posts from an HTML export
-- How to preserve saved Instagram Reels
-- How to keep track of Instagram saved collections
+- How to revisit saved Instagram Reels from an export
+- How to browse Instagram saved collections from an export
 - How to use Instagram Saved Library
 - How to use the app with or without Python
 
@@ -81,7 +78,7 @@ New guides and articles are published in the **Blog** section.
 
 ### How do I save Instagram posts before deleting my account?
 
-Request your Instagram data before deleting your account and include your **Saved items**. Instagram Saved Library can then organize the saved information from your export into a searchable local library.
+Request your Instagram data export before deleting your account and include your **Saved items**. Instagram Saved Library can then organize the saved information from your export into a searchable local library.
 
 ### How do I view Instagram saved posts from an HTML export?
 
@@ -130,13 +127,13 @@ The application repository contains:
 - Search
 - Quick View
 - Pagination for large libraries
-- Local/offline operation
+- Local operation
 - Installation and usage instructions
 - Source code and releases
 
 **If you want to use the application, start here:**
 
-**[Get Instagram Saved Library →](https://github.com/sthakur369/instagram-saved-library)**
+**[Get Instagram Saved Library →](https://github.com/sthakur369/instagram-saved-library-app)**
 
 ---
 
@@ -150,3 +147,4 @@ To publish a new article, create a Markdown file inside:
 
 ```text
 _posts/
+```
