@@ -1,267 +1,171 @@
 ---
 layout: post
-title: "How to Export Your Instagram Data as HTML on Mobile and Desktop"
-description: "Learn how to request your Instagram data export as HTML from the app or a computer, choose the information you need, and download the finished archive."
+title: "How to Export Instagram Data as HTML on Mobile and Desktop"
+description: "Learn how to export your Instagram data as HTML from Android and desktop, including saved posts and saved content."
 categories: [Instagram]
 tags: [instagram-export, instagram-data, instagram-html, instagram-saved-posts, instagram-guide]
 author: Shubham Thakur
 ---
 
-You clicked **Download your Instagram data** expecting something simple.
+You downloaded your Instagram data.
 
-Then you opened the download and found HTML files.
+Then you opened it.
 
-You're not alone.
+**HTML files. Folders. Links.**
 
-**Instagram's export is useful — but it doesn't look like a normal Instagram library.** This guide shows you how to request the export as **HTML** from your phone or computer, step by step.
+And you probably thought:
 
-> **Quick answer:** Go to **Accounts Center → Your information and permissions → Export your information**, create an export to your device, choose the information you need, select **HTML**, and start the export.
+> **“Okay… what am I supposed to do with this?”**
 
----
+You're not alone. If you mainly want to keep your saved posts and Reels before leaving Instagram, here's the simple way to export them as **HTML**.
 
-## Before you start
-
-If your goal is to keep your **saved Instagram posts, Reels or collections before deleting Instagram**, don't rush into deleting your account.
-
-**Export first. Delete later.**
-
-Instagram says that after your account has been deleted, you won't have access to its export tool.
-
-For this use case, you generally want:
-
-- **Saved** — for your saved posts and saved content
-- **Saved collections** — if shown separately in your export options
-- Any other information you personally want to keep
-
-You can choose specific information instead of exporting everything, which can make the download smaller. Instagram's export tool lets you customize the information, date range, format and other options.
+> **The basic path:** Account Center → Your information and permissions → Export your information → Create export.
 
 ---
 
-# Export Instagram data as HTML on your phone
+# Export Instagram data as HTML on Android
 
-These steps work from the Instagram app on current iPhone and Android versions. Instagram has moved data export into **Accounts Center**, so older guides may show a different menu path.
+**Profile picture → three lines → Account Center → Your information and permissions → Export your information → Create export**
 
-### Step 1 — Open your profile
+**1. Open your profile**  
+Tap your **profile picture** in the bottom-right corner.
 
-Open Instagram and tap your **profile picture** in the bottom-right corner.
+**2. Open the menu**  
+Tap the **three lines** in the top-right corner.
 
-### Step 2 — Open the menu
+**3. Open Account Center**  
+Tap **Account Center**.
 
-Tap the **☰ Menu** button in the top-right corner.
+**4. Open Your information and permissions**  
+Tap **Your information and permissions**.
 
-### Step 3 — Open Accounts Center
-
-Tap **Accounts Center**.
-
-### Step 4 — Open Your information and permissions
-
-Inside Accounts Center, tap **Your information and permissions**.
-
-### Step 5 — Open Export your information
-
+**5. Open Export your information**  
 Tap **Export your information**.
 
-Instagram's current export tool is located here.
-
-### Step 6 — Create a new export
-
+**6. Create an export**  
 Tap **Create export**.
 
-### Step 7 — Select your Instagram account
+**7. Select your Instagram account**  
+Choose the Instagram account you want to export.
 
-Choose the Instagram profile you want to export, then tap **Next**.
+**8. Choose Export to device**  
+Select **Export to device**.
 
-### Step 8 — Choose where to export it
+**9. Choose the export settings**
 
-Choose **Export to device**.
+Set:
 
-This is the option you want if you want the files on your own phone/computer rather than sending them to another service.
+- **Media quality:** High
+- **Format:** HTML
+- **Customize info:** select **Media** and **Saved**
 
-### Step 9 — Choose the information
+**10. Start the export**  
+Tap **Start export**.
 
-Instagram lets you customize what goes into the export.
-
-If you're doing this because you want to preserve your Instagram saves, select the relevant **Saved** information rather than blindly exporting everything.
-
-You can also choose a date range if you don't need your entire history.
-
-### Step 10 — Choose HTML
-
-When Instagram asks for the file format, choose:
-
-**HTML**
-
-HTML is useful when you want to view the exported information offline on your computer.
-
-### Step 11 — Start the export
-
-Review the options and tap **Start export**.
-
-Now comes the boring part: waiting.
-
-Instagram says an export can take up to **30 days** to be prepared, depending on the request.
+That's it. Instagram will prepare your export.
 
 > **Don't delete Instagram while you're waiting for the export.**
-
-You want the export safely downloaded first.
 
 ---
 
 # Export Instagram data as HTML on desktop
 
-You can request the same type of export from Instagram on a computer.
+**Settings → Account Center → Your information and permissions → Export your information → Create export**
 
-### Step 1 — Open Instagram
+**1. Open Instagram**  
+Go to [Instagram.com](https://www.instagram.com/) and sign in.
 
-Go to **Instagram.com** and log in.
+**2. Open Settings**
 
-### Step 2 — Open More
+**3. Open Account Center**  
+Click **Account Center**.
 
-Click **More** in the bottom-left corner.
-
-### Step 3 — Open Settings
-
-Click **Settings**.
-
-### Step 4 — Open Accounts Center
-
-Click **Accounts Center**.
-
-### Step 5 — Open Your information and permissions
-
+**4. Open Your information and permissions**  
 Click **Your information and permissions**.
 
-### Step 6 — Open Export your information
-
+**5. Open Export your information**  
 Click **Export your information**.
 
-Instagram's official desktop instructions use this path.
-
-### Step 7 — Create an export
-
+**6. Create an export**  
 Click **Create export**.
 
-### Step 8 — Select your Instagram account
+**7. Select your Instagram account**  
+Choose the account you want to export.
 
-Select the Instagram profile you want to export and click **Next**.
-
-### Step 9 — Choose Export to device
-
+**8. Choose Export to device**  
 Select **Export to device**.
 
-### Step 10 — Select the information
+**9. Choose the export settings**
 
-Choose the information you want to export.
+Set:
 
-For a saved-post backup, look for the **Saved** information.
+- **Media quality:** High
+- **Format:** HTML
+- **Customize info:** select **Media** and **Saved**
 
-You can also choose a date range and other export settings.
-
-### Step 11 — Choose HTML
-
-Set the format to:
-
-**HTML**
-
-### Step 12 — Start the export
-
+**10. Start the export**  
 Click **Start export**.
 
-Instagram will prepare the export and notify you when it is ready.
+Instagram will prepare the files for you.
 
 ---
 
-# Your export is ready. Now what?
+## Why HTML?
 
-This is the part that surprises most people.
+For this use case, **HTML is the easy format to read yourself**.
 
-You download the ZIP.
+You can open the exported HTML files in a browser without needing special software.
 
-You unzip it.
+But there is a catch.
 
-And instead of a neat folder called **My Instagram Saves**, you find HTML files and folders.
+You may still end up with a folder full of HTML pages and links instead of a clean Instagram-style library.
 
-That's normal.
+**That's exactly the gap I wanted to solve.**
 
-**The export is data. It isn't designed to look like the Instagram app.**
+[**Instagram Saved Library → GitHub**](https://github.com/sthakur369/instagram-saved-library-app)
 
-If you only want to inspect the raw export, you can open the HTML files in a browser.
-
-But if your goal is to actually **browse years of saved posts and Reels**, that's where Instagram Saved Library can help.
-
-It turns the saved information from your export into a **private, searchable visual library** on your computer.
-
-**[Try Instagram Saved Library →](https://github.com/sthakur369/instagram-saved-library-app)**
+It takes the saved information from your export and turns it into a **visual, searchable library** on your computer.
 
 ---
 
-## What should I choose: HTML or JSON?
+## What to do after the export finishes
 
-For this particular use case, choose **HTML** if your goal is to read and browse the exported information yourself.
+You'll get a ZIP file.
 
-Instagram describes HTML as a format intended to make your information easy to view offline, while JSON is intended for use with other sites or apps.
+1. Download it.
+2. Extract/unzip it.
+3. Find the `saved` folder.
+4. Inside, you'll find the saved HTML files and related data.
 
-So if you're thinking:
+If you're planning to delete Instagram, **don't stop at “I downloaded my data.”**
 
-> "I just want to see my exported Instagram data."
-
-**HTML is the straightforward choice.**
-
----
-
-## What happens after you request the export?
-
-Instagram will prepare the files.
-
-When the export is available, you can find it in the export tool's **Available downloads** section. Instagram says available downloads remain there for **4 days**, so don't leave the download sitting there forever.
-
-Download the ZIP and keep a copy somewhere safe.
-
-Then extract it.
-
-### And if you're specifically trying to save your Instagram library before deleting your account...
-
-**Don't stop at the ZIP file.**
-
-Open the exported `saved` data and make sure you can actually access the information you care about.
-
-That's the difference between:
-
-**"I downloaded my data."**
-
-and
-
-**"I actually kept what mattered."**
-
----
-
-## Official Instagram instructions
-
-For the latest wording and export options, use Instagram's own Help Center:
-
-**[Instagram: Review and export a copy of your information](https://www.facebook.com/help/181231772500920)**
-
-Instagram can change the names or placement of settings, so the official page is the best reference if your screen looks a little different.
-
-## Quick checklist
-
-- [ ] Opened Instagram
-- [ ] Opened **Accounts Center**
-- [ ] Opened **Your information and permissions**
-- [ ] Opened **Export your information**
-- [ ] Selected the correct Instagram account
-- [ ] Chosen **Export to device**
-- [ ] Selected the information you want
-- [ ] Chosen **HTML**
-- [ ] Started the export
-- [ ] Waited for Instagram to prepare it
-- [ ] Downloaded the ZIP
-- [ ] Extracted the ZIP
-- [ ] Checked the `saved` data if you're preserving saved posts/Reels
+Make sure you can actually access the things you wanted to keep.
 
 > **Download first. Delete second.**
 
-And if the HTML export leaves you wondering, *"Okay... how do I actually browse all these saved posts?"* — that's exactly the problem Instagram Saved Library is built to solve.
+---
 
-**[Open the app on GitHub →](https://github.com/sthakur369/instagram-saved-library-app)**
+## Quick checklist
 
+- [ ] Account Center
+- [ ] Your information and permissions
+- [ ] Export your information
+- [ ] Create export
+- [ ] Select your Instagram account
+- [ ] Export to device
+- [ ] Media quality: **High**
+- [ ] Format: **HTML**
+- [ ] Customize info: **Media + Saved**
+- [ ] Start export
+- [ ] Download the ZIP
+- [ ] Extract it
+
+---
+
+## Official Instagram help
+
+Instagram can change menu names or move settings over time. For the latest options, use:
+
+[**Review and export a copy of your information →**](https://www.facebook.com/help/181231772500920)
+
+And when the HTML export leaves you thinking, *“I have the data, but how do I actually browse my saved posts?”* — that's what [**Instagram Saved Library**](https://github.com/sthakur369/instagram-saved-library-app) is for.
