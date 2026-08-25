@@ -5,7 +5,7 @@ description: "Thinking about deleting Instagram? Here's the simple way to delete
 categories: [Instagram]
 tags: [delete-instagram, instagram-account, instagram-guide]
 author: Shubham Thakur
-permalink: /blog/how-to-delete-instagram-account-mobile-desktop/
+permalink: /blog/how-to-delete-instagram-account-mobile-desktop-updated/
 ---
 
 Thinking about deleting Instagram?
@@ -27,6 +27,18 @@ For your saved content, choose **HTML** and include **Saved** in the information
 Once the export is ready, [Instagram Saved Library](https://github.com/sthakur369/instagram-saved-library-app) can turn the saved data into a visual, searchable library on your computer.
 
 ---
+
+## See the steps in action
+
+Here's a quick walkthrough showing where to find Instagram's account deletion option.
+
+<div class="post-video">
+  <video controls playsinline preload="metadata">
+    <source src="{{ '/assets/videos/delete-instagram.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p class="post-video-caption">Quick walkthrough: where to find Instagram's account deletion option.</p>
+</div>
 
 # Delete Instagram on Android
 
