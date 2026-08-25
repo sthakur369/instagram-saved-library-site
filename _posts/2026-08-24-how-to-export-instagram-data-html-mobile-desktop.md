@@ -5,6 +5,7 @@ description: "Your Instagram export is easy to request, but the files can be con
 categories: [Instagram]
 tags: [instagram-export, instagram-data, instagram-html, instagram-saved-posts]
 author: Shubham Thakur
+permalink: /instagram/how-to-export-instagram-data-html-mobile-desktop/
 ---
 
 You download your Instagram data.

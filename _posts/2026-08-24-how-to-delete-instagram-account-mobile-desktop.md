@@ -5,6 +5,7 @@ description: "Thinking about deleting Instagram? Here's the simple way to delete
 categories: [Instagram]
 tags: [delete-instagram, instagram-account, instagram-guide]
 author: Shubham Thakur
+permalink: /instagram/how-to-delete-instagram-account-mobile-desktop/
 ---
 
 Thinking about deleting Instagram?
